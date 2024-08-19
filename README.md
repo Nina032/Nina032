@@ -1,6 +1,6 @@
 👋 Introduction
 
-I'm a  Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm currently working on Contactus Sweden as an educatior and web developer.
+I'm a  Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm currently working for Contactus Sweden as an educatior and web developer.
 
 📫 Contact Me on Social Media
 
