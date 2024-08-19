@@ -1,16 +1,11 @@
-## Hi there 👋
-:)
-<!--
-**Nina032/Nina032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-:)
-Here are some ideas to get you started:
+👋 Introduction
+Nevena Kicanovic
+I'm a  Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm currently working on Contactus Sweden as an educatior and web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact Me on Social Media
+Add me on <a href="www.linkedin.com/in/nevena-kicanovic-117623156">LinkedIn</a> or just <a href="mailto:nevena.kicanovic@contactus.se">✉️ Email</a> me.
+
+👷 Check out what I'm currently working on
+
+🌱 My latest projects
+
