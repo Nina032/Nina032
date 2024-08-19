@@ -6,7 +6,7 @@ I'm a  Web Developer and occasional UI/UX Designer who loves making high-quality
 
 Add me on <a href="https://www.linkedin.com/in/nevena-kicanovic-117623156">LinkedIn</a> or just <a href="mailto:nevena.kicanovic@contactus.se">✉️ Email</a> me.
 
-👷 Check out what I'm currently working on
+<!--👷 Check out what I'm currently working on
 
-🌱 My latest projects
+🌱 My latest projects -->
 
